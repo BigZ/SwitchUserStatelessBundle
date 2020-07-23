@@ -1,5 +1,5 @@
 {
-    "name": "lafourchette/switch-user-stateless-bundle",
+    "name": "bigz/switch-user-stateless-bundle",
     "type": "symfony-bundle",
     "description": "Bundle to use impersonating on Symfony API",
     "keywords": [
